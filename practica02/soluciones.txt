@@ -1,0 +1,11 @@
+Linea 9: El tipo de variable tiene un error de escritura. Cambié la mayúscula N por n.
+Línea 14: El tipo de variable está mal declarada. Cabié a double ya que el resultado puede ser un valor real y estaba en long que es para variables enteras.
+Línea 14: La variable "discriminante" estaba mal escrita. Cambié Mayùscula D por minùscula d.
+Lìnea 17: El tipo de variable tiene una error de escritura. Cambié mayúscula C por minùscula c
+Línea 18: La variable "ch1" está incompleta. Le agregué el 1 que le faltaba.
+Línea 18: El valor de la variable "ch2" tiene comillas dobles. Cambié a comillas simples.
+Línea 19: El tipo de variable es incorrecto. Cambié a double ya que el resultado puede ser un valor real.
+Línea 19: Existe un error de lógica ya que la división entre cero no está definida. Le asigne el nùmero 4 a la variable "a".
+Línea 9: EL valor de la variable de tipo boolean era incorrecto. Cambié el valor a false
+Línea 10: El tipo de variable està mal declarada. Cambié a int ya que el valor está dentro de ese rango
+Línea 11: El tipo de variable està mal declarada. Cambié a int ya que el valor está dentro de ese rango
