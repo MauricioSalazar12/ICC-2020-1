@@ -17,11 +17,10 @@ public class Sintaxis {
 		char ch1, ch2;
 		ch1 = 'g'; ch2 = 'w';
 		double d = 1 / (a - 3);
- System.out.println("El primer resultado es: " +x1);
- System.out.println("El segundo resultado es:" +x2);
+
 		// Declaraciones
-	         long var_1 = 2147483648
-                 char quote = '\''
+	         long var_1 = 2147483648L;
+                 char quote = '\'';
 
 	}
 
