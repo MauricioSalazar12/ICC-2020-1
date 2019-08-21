@@ -1,0 +1,13 @@
+PrePost.java
+
+En la línea 8 tenemos que la variable x, después de los operadores,tiene un valor de 18. En la línea 9 se utiliza el operador "--x" que hace que bajemos el valor de la variable y después se utilice, es decir en la línea 9 se imprime su nuevo valor, que es 17. A la siguiente línea, se utiliza el operador "x--" que hace que primero utilicemos la variable y después le bajemos el valor, así, en la línea 10 se imprime el valor de 17 nuevamente.
+
+Operadores.java
+
+Primero notemos que la variable dividendoEntero está declarada como "int", así, al hacer la operación el resultado arrojará un valor de tipo entero.
+Luego, la variable dividenso real está declarada como "double", así, al efectuar la operación arrojará un valor de tipo real.
+
+
+
+
+
