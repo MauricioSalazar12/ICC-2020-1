@@ -32,10 +32,5 @@ public class PruebaPeon {
 			System.out.println(" ");
 
 		}
-
-		
-
-		
-
 	}
 }
